@@ -1,0 +1,16 @@
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\bin\Debug\netcoreapp2.2\TestMicroServices.deps.json
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\bin\Debug\netcoreapp2.2\TestMicroServices.runtimeconfig.json
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\bin\Debug\netcoreapp2.2\TestMicroServices.runtimeconfig.dev.json
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\bin\Debug\netcoreapp2.2\TestMicroServices.dll
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\bin\Debug\netcoreapp2.2\TestMicroServices.pdb
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\obj\Debug\netcoreapp2.2\TestMicroServices.csprojAssemblyReference.cache
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\obj\Debug\netcoreapp2.2\TestMicroServices.RazorAssemblyInfo.cache
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\obj\Debug\netcoreapp2.2\TestMicroServices.RazorAssemblyInfo.cs
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\obj\Debug\netcoreapp2.2\TestMicroServices.AssemblyInfoInputs.cache
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\obj\Debug\netcoreapp2.2\TestMicroServices.AssemblyInfo.cs
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\obj\Debug\netcoreapp2.2\TestMicroServices.RazorTargetAssemblyInfo.cache
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\obj\Debug\netcoreapp2.2\TestMicroServices.dll
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServices\obj\Debug\netcoreapp2.2\TestMicroServices.pdb

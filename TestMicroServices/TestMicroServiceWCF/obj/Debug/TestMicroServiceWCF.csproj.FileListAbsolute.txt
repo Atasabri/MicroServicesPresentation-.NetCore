@@ -1,0 +1,6 @@
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServiceWCF\bin\TestMicroServiceWCF.dll.config
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServiceWCF\bin\TestMicroServiceWCF.dll
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServiceWCF\bin\TestMicroServiceWCF.pdb
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServiceWCF\obj\Debug\TestMicroServiceWCF.csprojAssemblyReference.cache
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServiceWCF\obj\Debug\TestMicroServiceWCF.dll
+C:\Users\Asabry\Desktop\TestMicroServices\TestMicroServiceWCF\obj\Debug\TestMicroServiceWCF.pdb

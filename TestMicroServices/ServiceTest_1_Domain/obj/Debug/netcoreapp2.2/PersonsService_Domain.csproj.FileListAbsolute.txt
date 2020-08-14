@@ -1,0 +1,10 @@
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Domain\bin\Debug\netcoreapp2.2\PersonsService_Domain.deps.json
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Domain\bin\Debug\netcoreapp2.2\PersonsService_Domain.runtimeconfig.json
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Domain\bin\Debug\netcoreapp2.2\PersonsService_Domain.runtimeconfig.dev.json
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Domain\bin\Debug\netcoreapp2.2\PersonsService_Domain.dll
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Domain\bin\Debug\netcoreapp2.2\PersonsService_Domain.pdb
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Domain\obj\Debug\netcoreapp2.2\PersonsService_Domain.AssemblyInfoInputs.cache
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Domain\obj\Debug\netcoreapp2.2\PersonsService_Domain.AssemblyInfo.cs
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Domain\obj\Debug\netcoreapp2.2\PersonsService_Domain.dll
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Domain\obj\Debug\netcoreapp2.2\PersonsService_Domain.pdb
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Domain\obj\Debug\netcoreapp2.2\PersonsService_Domain.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\bin\Debug\netcoreapp2.2\PersonsService_Business.deps.json
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\bin\Debug\netcoreapp2.2\PersonsService_Business.dll
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\bin\Debug\netcoreapp2.2\PersonsService_Business.pdb
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\bin\Debug\netcoreapp2.2\PersonsService_Domain.dll
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\bin\Debug\netcoreapp2.2\PersonsService_Domain.pdb
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\obj\Debug\netcoreapp2.2\PersonsService_Business.csprojAssemblyReference.cache
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\obj\Debug\netcoreapp2.2\PersonsService_Business.AssemblyInfoInputs.cache
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\obj\Debug\netcoreapp2.2\PersonsService_Business.AssemblyInfo.cs
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\obj\Debug\netcoreapp2.2\PersonsService_Business.csproj.CopyComplete
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\obj\Debug\netcoreapp2.2\PersonsService_Business.dll
+C:\Users\Asabry\Desktop\TestMicroServices\ServiceTest_1_Business\obj\Debug\netcoreapp2.2\PersonsService_Business.pdb

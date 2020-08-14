@@ -1,0 +1,5 @@
+C:\Users\Asabry\Desktop\TestMicroServices\ExamsService_Domain\bin\Debug\netcoreapp3.1\ExamsService_Domain.deps.json
+C:\Users\Asabry\Desktop\TestMicroServices\ExamsService_Domain\bin\Debug\netcoreapp3.1\ExamsService_Domain.dll
+C:\Users\Asabry\Desktop\TestMicroServices\ExamsService_Domain\obj\Debug\netcoreapp3.1\ExamsService_Domain.csprojAssemblyReference.cache
+C:\Users\Asabry\Desktop\TestMicroServices\ExamsService_Domain\obj\Debug\netcoreapp3.1\ExamsService_Domain.AssemblyInfoInputs.cache
+C:\Users\Asabry\Desktop\TestMicroServices\ExamsService_Domain\obj\Debug\netcoreapp3.1\ExamsService_Domain.AssemblyInfo.cs
